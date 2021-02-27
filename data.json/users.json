@@ -1,0 +1,22 @@
+[
+  {
+    "id": "HJ1KBdvfO",
+    "nickname": "villafrancasra",
+    "name": "villafrancasra@gmail.com",
+    "picture": "https://s.gravatar.com/avatar/cfe92bab76008f69963628488e2f75d5?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fvi.png",
+    "updated_at": "2021-02-27T07:32:03.139Z",
+    "email": "villafrancasra@gmail.com",
+    "email_verified": false,
+    "sub": "auth0|6039d855b8cdf6007087fb0a"
+  },
+  {
+    "id": "HkggNtwzd",
+    "nickname": "seijiv13",
+    "name": "seijiv13@gmail.com",
+    "picture": "https://s.gravatar.com/avatar/330dc05d82e0ac5de8d920854f7d08bc?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png",
+    "updated_at": "2021-02-27T08:33:40.921Z",
+    "email": "seijiv13@gmail.com",
+    "email_verified": false,
+    "sub": "auth0|6039d3128756df0069a462eb"
+  }
+]
